@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OxideOG
 - 👀 I’m interested in game development, mostly FiveM
-- 🌱 I’m currently learning LUA development
+- 🌱 I’m currently working LUA development
 - 💞️ I’m looking to collaborate on FiveM resource projects
 - 📫 You can reach me discord, Oxide.#9715
 
